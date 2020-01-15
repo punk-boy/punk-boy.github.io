@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>HelloWorld</title>
+    <url>/2020/01/13/HelloWorld/</url>
+    <content><![CDATA[<h1 id="HelloWorld，我的第一篇博客"><a href="#HelloWorld，我的第一篇博客" class="headerlink" title="HelloWorld，我的第一篇博客"></a>HelloWorld，我的第一篇博客</h1><blockquote>
+<p>博客，一直都是技术人员要写的东西，回顾技术的学习，体验人生的点滴，偶尔也能发一些牢骚。大三的我才开始写博客，似乎为时已晚，但是只要开始并坚持，什么时候都不算晚。我就将博客与传统的日记相结合，对于那些技术有疑惑的程序猿，我尽可能写有帮助的干货，对于那些有人生疑惑的小小人儿，希望能给你们一种活法的启发。<br>在我的博客中，将会记录我所有的所学所感，如果你喜欢的话可以关注我的微信公众号，在那里，还有更多我的分享。当然博客中的内容如果你想传播的话，都可以从GitHub中获取到，但请务必注明出处，谢谢。</p>
+</blockquote>
+<a id="more"></a>
+
+
+
+<h2 id="我的剩下大学的时光的规划"><a href="#我的剩下大学的时光的规划" class="headerlink" title="我的剩下大学的时光的规划"></a>我的剩下大学的时光的规划</h2><h3 id="加强对数据结构和算法的理解"><a href="#加强对数据结构和算法的理解" class="headerlink" title="加强对数据结构和算法的理解"></a>加强对数据结构和算法的理解</h3><h3 id="读完《深入理解Linux内核》并记录阅读感受"><a href="#读完《深入理解Linux内核》并记录阅读感受" class="headerlink" title="读完《深入理解Linux内核》并记录阅读感受"></a>读完《深入理解Linux内核》并记录阅读感受</h3><h2 id="我的人生规划"><a href="#我的人生规划" class="headerlink" title="我的人生规划"></a>我的人生规划</h2><p>其实对于读研究生，我实在是不知道该如何选择，一方面我想通过读研究生提高自己的学历，但是另一方面，想赶出一些事情又使得我没有时间考研复习</p>
+<h3 id="30岁前要混得差不多"><a href="#30岁前要混得差不多" class="headerlink" title="30岁前要混得差不多"></a>30岁前要混得差不多</h3><h3 id="35岁前实现财富自由"><a href="#35岁前实现财富自由" class="headerlink" title="35岁前实现财富自由"></a>35岁前实现财富自由</h3>]]></content>
+      <categories>
+        <category>如何构建一个博客</category>
+      </categories>
+      <tags>
+        <tag>活着</tag>
+        <tag>碎碎念</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>testpage</title>
+    <url>/2020/01/13/testpage/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>乱七八糟</category>
+      </categories>
+      <tags>
+        <tag>测试</tag>
+        <tag>不适用</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>test</title>
+    <url>/2020/01/10/test/</url>
+    <content><![CDATA[<h1 id="test"><a href="#test" class="headerlink" title="test"></a>test</h1>]]></content>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2020/01/09/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+<a id="more"></a>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+]]></content>
+  </entry>
+</search>
